@@ -1,1 +1,1 @@
-#define X 10
+#define SAMPLES 128
