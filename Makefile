@@ -6,7 +6,7 @@ OBJCOPY = avr-objcopy
 CFLAGS = -Wall -Os -mmcu=$(MCU) -DF_CPU=$(F_CPU) -Iinclude
 
 TARGET = main
-SRC = src/main.c
+SRC = src/main.c src/fix_fft.c
 OBJ = $(SRC:.c=.o)
 
 all: $(TARGET).hex
