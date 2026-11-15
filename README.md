@@ -3,3 +3,6 @@
 
 https://github.com/user-attachments/assets/918d4367-622e-4e3f-bdca-54e7d63b00c7
 
+resources:
+https://github.com/simpleavr/lp_8bitfft/tree/master
+https://www.jjj.de/fft/fftpage.html
